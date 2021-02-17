@@ -1,4 +1,7 @@
-[![Build Status](https://ebizframework.visualstudio.com/whitekite/_apis/build/status/github-ci-pipeline?branchName=master)](https://ebizframework.visualstudio.com/whitekite/_build/latest?definitionId=8&branchName=master)
+![Deployment Workflow](https://github.com/actions/cloud-validation-framework/workflows/.github/workflows/deploy.yaml/badge.svg)
+
+![Development Workflow](https://github.com/actions/cloud-validation-framework/workflows/.github/workflows/test_development.yaml/badge.svg)
+
 
 # What is prancer?
 
